@@ -1,0 +1,170 @@
+body{
+	background-color: #7EC9EC;
+}
+#index_h1{
+	color: #2056FA;
+	//font-size: 250%;
+	//text-align: center;
+}
+.index_a{
+	color: #A620FA;
+}
+.tuotteet_h1{
+	color: #2056FA;
+}
+.tuotteet_tr1:nth-child(even){
+	background-color: #C2D1D0;
+	//tr:nth-child(even){background-color: #C2D1D0}
+}
+.tuotteet_table1{
+	border-collapse: collapse;
+	//width: 80%;
+	margin: left;
+    border: 1px solid #73AD21;
+	background-color: white;
+}
+.tuotteet_th1 {
+    //background-color: #D8F8CB;
+	width: 50%;
+	text-align: left;
+	border: 2px solid black;
+	border-color: #7EC9EC;
+}
+.tuotteet_td1{
+	width: 30%;
+	border: 2px solid black;
+	border-color: #7EC9EC;
+}
+
+.asiakkaat_th1{
+	width: 90%;
+	border: 2px solid black;
+	border-color: #7EC9EC;
+	text-align: left;
+}
+.asiakkaat_th1_orange{
+	color: #2056FA;
+	background-color: #FFD786;
+	border: 2px solid black;
+	border-color: #7EC9EC;
+	text-align: left;
+}
+.poisto_paivitys_lomake_table1{
+	border-collapse: collapse;
+	//width: 80%;
+	//margin: left;
+    //border: 1px solid #73AD21;
+	//background-color: white;	
+}
+.poisto_paivitys_lomake_th1{
+	width: 50%;
+	//border: 2px solid black;
+	//border-color: red;
+	text-align: left;	
+}
+.tilaukset_h2{
+	color: #9013A4;
+}
+.tilaukset_table1{
+	border-collapse: collapse;
+	width: 40%;
+	margin: left;
+    border: 1px solid #73AD21;
+	background-color: white;	
+}
+.tilaukset_th1 {
+    //background-color: #D8F8CB;
+	width: 20%;
+	text-align: left;
+	border: 2px solid black;
+	border-color: #7EC9EC;
+}
+.tilaukset_td1{
+	width: 40%;
+	border: 2px solid black;
+	border-color: #7EC9EC;
+}
+#hr1{
+	width: 40%;
+	margin-left: 0;
+}
+.tilaus_tr2{
+	background-color: #7EC9EC;
+}
+.uusi_tilaus_th1 {
+    //background-color: #D8F8CB;
+	width: 60%;
+	text-align: left;
+	border: 2px solid black;
+	border-color: #7EC9EC;
+}
+.uusi_tilaus_td1{
+	width: 40%;
+	border: 2px solid black;
+	border-color: #7EC9EC;
+}
+input[type="text"] {
+    width: 80%;
+}
+#poisto_paivitys_lomake_p1{
+	font-size: 200%;
+}
+.uusi_tilaus_table1{
+	//border-collapse: collapse;
+	//width: 70%;
+	margin: left;
+    border: 1px solid gray;
+	//background-color: white;
+}
+.uusi_tilaus_th2 {
+    //background-color: #D8F8CB;
+	width: 30%;
+	text-align: left;
+	border: 1px solid black;
+	//border-color: #7EC9EC;
+}
+.uusi_tilaus_td2{
+	width: 40%;
+	border: 1px solid black;
+	//border-color: #7EC9EC;
+}
+.tuote_table1{
+	//border-collapse: collapse;
+	width: 30%;
+	margin: left;
+    border: 1px solid gray;
+	//background-color: white;
+}
+.tuote_table2{
+	border-collapse: collapse;
+	//width: 20%;
+	margin: left;
+    //border: 1px solid gray;
+	//background-color: white;
+}
+.tuote_th1{
+	//background-color: #D8F8CB;
+	width: 50%;
+	text-align: left;
+	border: 1px solid black;
+	//border-color: #7EC9EC;
+}
+.tuote_th2{
+	//background-color: #D8F8CB;
+	width: 20%;
+	text-align: left;
+	border: 1px solid black;
+	//border-color: #7EC9EC;
+	padding-top: 16px;
+}
+.tuote_th3{
+	//background-color: #D8F8CB;
+	width: 40%;
+	text-align: center;
+	border: 1px solid black;
+	//border-color: #7EC9EC;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+
