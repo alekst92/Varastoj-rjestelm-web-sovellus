@@ -1,2 +1,2 @@
-# Varastoj-rjestelm-web-sovellus
+# Varastojarjestelma-web-sovellus
 php/html/Javascript/MySQL
