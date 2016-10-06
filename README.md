@@ -1,3 +1,3 @@
 # Varastojarjestelma-web-sovellus
-php/html/Javascript
+php/html/Javascript, 
 MySQL-database
